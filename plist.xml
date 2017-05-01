@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>tw.gov.npa.AW00010501</string>
                <key>bundle-version</key>
                <string>1.1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>北市E化</string>
+               <string>北市e化簿冊</string>
                <key>title</key>
-               <string>北市E化</string>
+               <string>北市e化簿冊</string>
            </dict>
        </dict>
    </array>
